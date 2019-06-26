@@ -1,4 +1,4 @@
-AFRAME.registerComponent('zinga_rotate_y', {
+AFRAME.registerComponent('gh--jafetmorales--zinga_rotate_y', {
     schema: {
     speed: {type: 'number', default: .005}
   },
